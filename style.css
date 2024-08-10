@@ -1,0 +1,62 @@
+.navbar-brand {
+    font-size: 140%;
+}
+
+#Home img {
+    clip-path: polygon(25% 0%, 100% 0, 100% 75%, 75% 100%, 0 100%, 0 25%);
+}
+
+#Prog-Languages .card {
+    border-radius: 20px;
+}
+
+.P-image {
+    width: 150px;
+    height: 133px;
+}
+
+#Prog-Languages img {
+    height: 90px;
+    transition: height 1s ease-in-out;
+}
+
+#Prog-Languages img:hover {
+    height: 110px;
+}
+
+#Prog-Languages a {
+    text-decoration: none;
+}
+
+#Prog-Languages a:hover {
+    text-decoration: underline;
+}
+
+#Testimonal .carousel-item {
+    padding: 50px 20px;
+}
+
+.names {
+    font-size: 85%;
+}
+
+#Contact div a {
+    color: black;
+    transition: color 1s ease-in-out;
+}
+
+#Contact div a:first-child:hover {
+    color: #4BC658;
+}
+
+#Contact div a:nth-of-type(2):hover {
+    color: #0863F7;
+}
+
+#Contact div a:last-child:hover {
+    color: #F50001;
+}
+
+#Contact button {
+    border: 1px solid black;
+}
